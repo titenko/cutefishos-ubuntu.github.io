@@ -3,6 +3,7 @@
 on:
 schedule:
   workflow_dispatch: # on button click
+  
   push:
     branches:
     - master
