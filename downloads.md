@@ -8,7 +8,7 @@ layout: page
 
 ---
 
-## CutefishOS Ubuntu v0.4
+## CutefishOS v0.4 Ubuntu 
 
 ## Download:
   **Mega:** [CutefishOS Ubuntu v0.4 Beta Developer Edition](https://bit.ly/3Dcyd7s)  
