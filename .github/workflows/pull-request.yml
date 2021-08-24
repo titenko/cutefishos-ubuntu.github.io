@@ -3,7 +3,7 @@
 on:
   push:
     branches:
-    - feature-1
+    - master
 
 jobs:
   pull-request:
