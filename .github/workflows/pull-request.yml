@@ -1,6 +1,8 @@
 # File: .github/workflows/pull-request.yml
 
 on:
+schedule:
+  workflow_dispatch: # on button click
   push:
     branches:
     - master
