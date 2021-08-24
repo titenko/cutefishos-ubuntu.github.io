@@ -12,7 +12,7 @@ name: CutefishOS
 email: your-email@example.com
 description: CutefishOS Built on Ubuntu
 avatar: https://raw.githubusercontent.com/cutefish-ubuntu/cutefish-ubuntu.github.io/master/images/cutefish-logo.png
-baseurl: ''
+baseurl: 
 url: https://cutefishos-ubuntu.github.io/
 twitter_username: 
 github_username: 
